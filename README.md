@@ -50,14 +50,8 @@
 
 ---
 
-
-### 💻 Courses:
-
 | Course                                                          | Date              |
-| ----------------------------------------------------------------| :---------------: |
-| 
-| Coursera. Front-End Web UI Frameworks and Tools: Bootstrap 4    |     May 2022      |
-| EPAM .NET Program                                               |     Nov 2022      |
-| AWS Cloud Technical Essentials                                  |     Mar 2023      |
---- 
-
+| --------------------------------------------------------------- | ----------------- |
+| Coursera. Front-End Web UI Frameworks and Tools: Bootstrap 4   | May 2022          |
+| EPAM .NET Program                                              | Nov 2022          |
+| AWS Cloud Technical Essentials                                 | Mar 2023          |
